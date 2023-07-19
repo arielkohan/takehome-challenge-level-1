@@ -101,7 +101,13 @@ Again, this is supposed to be a mock. There is no need to use any external techn
 - Unit tests are not needed.
 
 
-### Demo
+### Repository
+
+If you think it would save you some time, feel free to use this repository as the starting point of the challenge (challenge-back and challenge-front have spring boot and angular installed, respectively).
+
+Otherwise you're totally free to create a brand new project.
+
+### Demo
 
 
 
