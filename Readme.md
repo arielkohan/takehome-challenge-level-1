@@ -99,3 +99,11 @@ Again, this is supposed to be a mock. There is no need to use any external techn
 - No need for any configuration file: feel free to hardcode values if needed (tip: create a constant if a value is expected to be used in multiple places).
 - Form validation in the frontend is not needed.
 - Unit tests are not needed.
+
+
+### Demo
+
+
+
+https://github.com/arielkohan/takehome-challenge-level-1/assets/21253485/14818620-c225-4eb1-9210-80b50b3250d9
+
